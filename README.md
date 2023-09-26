@@ -1,27 +1,28 @@
-# "Управление на задачи"
+# "To Do List"
 
-Проектът "Управление на задачи" е конзолно приложение, което ви позволява да добавяте, изтривате и преглеждате задачи във вашата лична "to-do" списък. Този проект е написан на Java и използва списък от обекти `Task` за съхранение на информацията за задачите.
+The "Task Management/To do list" project is a console application that allows you to add, delete, and view tasks in your personal to-do list. This project is written in Java and uses a list of objects called Task to store information about the tasks.
 
-## Инструкции за стартиране
+## Startup Instructions
 
-1. Изтеглете Java, ако вече не я имате инсталирана. Можете да я изтеглите от [официалния уебсайт на Java](https://www.oracle.com/java/technologies/javase-downloads.html).
+1. Download Java if you don't already have it installed. You can download it from the [official Java website.](https://www.oracle.com/java/technologies/javase-downloads.html).
 
-2. Клонирайте или изтеглете [проекта](https://github.com/Kaloioanness/ToDoList/blob/master/ToDoList.java) на вашия компютър.
+2. Clone or download the [project](https://github.com/Kaloioanness/ToDoList/blob/master/ToDoList.java) to your computer.
+   
+3. Open a terminal (or command prompt) and navigate to the project directory.
 
-3. Отворете терминал (или команден ред) и навигирайте до проекта.
-
-4. Компилирайте и стартирайте програмата, изпълнявайки следните команди:
+4. КCompile and run the program by executing the following commands:
    ```shell
    javac ToDoList.java
    java ToDoList
 
   
- ## Начин на ползване
+ ## How to Use
  
-  Следвайте инструкциите на екрана, за да добавите, изтриете и прегледате задачи.
+   Follow the on-screen instructions to add, delete, and view tasks.
 
- ## Функционалности
+
+ ## Features
  
-- Добавяне на задачи с уникални имена.
-- Изтриване на задачи по номер.
-- Преглеждане на списъка със задачи.
+- Adding tasks with unique names.
+- Deleting tasks by number.
+- Viewing the list of tasks.
